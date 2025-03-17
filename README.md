@@ -11,7 +11,7 @@ Pandas: Biblioteca para manipulação e análise de dados
 Plotly: Biblioteca para visualização de dados interativos
 
 ## 📌 Sobre o Projeto
-O objetivo deste projeto é criar um dashboard interativo para a consulta de ações financeiras, tornando a análise de dados mais acessível e dinâmica.
+O objetivo deste projeto é criar um dashboard interativo para a consulta de ações financeiras, tornando a análise de ações mais acessível e dinâmica.
 
 ## 🏗️ Dependencias e Deploy
 Este repositório contém um projeto baseado em Streamlit + Plotly, que consome dados da API yFinance.
